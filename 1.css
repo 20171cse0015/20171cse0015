@@ -1,0 +1,19 @@
+
+	body{
+	background-image:url("/home/6CSE1/Downloads/index.png");
+	background-repeat:repeat;
+	background-attachment:scroll;
+	}
+	h1{
+	color:red;
+	margin-left:70px;	
+	}
+	p.class1{color:blue;
+	font-weight:700;
+	letter-spacing:5px;
+	}
+	p.class2{color:green;
+	font-weight:900;
+	letter-spacing:10px;
+	font-size:large;
+	}
